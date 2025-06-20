@@ -21,7 +21,7 @@ I’m comfortable working independently or in teams, with experience in:
 
 ## 🔨 Key Projects
 
-### 🧳 Inventory System  
+### Inventory System  
 **Repo:** [gmod-inventory-system](https://github.com/WackDog/gmod-inventory-system)
 
 A lightweight and modular inventory system designed for flexibility.
@@ -33,7 +33,7 @@ A lightweight and modular inventory system designed for flexibility.
 
 ---
 
-### 🔐 Door Access System (Keypad)  
+### Door Access System (Keypad)  
 **Repo:** [gmod-keypad-system](https://github.com/WackDog/gmod-keypad-system)
 
 A keypad entity that can control door access — originally intended for an **SCP-RP** setup.
@@ -45,7 +45,7 @@ A keypad entity that can control door access — originally intended for an **SC
 
 ---
 
-### 🧪 Crafting System  
+### Crafting System  
 **Repo:** [gmod-crafting-system](https://github.com/WackDog/gmod-crafting-system)
 
 Simple but expandable crafting system, built to slot into roleplay or survival modes.
@@ -56,6 +56,10 @@ Simple but expandable crafting system, built to slot into roleplay or survival m
 - Designed to work with the Inventory System  
 
 ---
+
+### 📌 Project Review Note
+
+I'm always happy to walk through the reasoning behind my implementations — whether it's networking choices, UI design, or overall structure. If you're reviewing any of the projects above and have questions, I'm more than happy to explain my decisions or talk through possible improvements.
 
 ## 📁 Additional Work
 
