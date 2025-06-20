@@ -8,7 +8,7 @@
 
 I got my start with Lua through **Don’t Starve modding**, building custom characters and messing with game mechanics. That hobby quickly turned into a deeper interest in game scripting, which now has eventually led me into **Garry's Mod development** — where I’ve began spending time building clean, modular systems using GLua.
 
-Outside of GMod, I work as a **software engineer**, with over **7 years of experience** across **C, JavaScript, and Java**. I bring professional software practices into my game dev work: structure, reusability, and safe, efficient code.
+Outside of GMod, I work as a **software engineer intern**, with over **7 years of experience** across **C, JavaScript, and Java**. I bring professional software practices into my game dev work: structure, reusability, and safe, efficient code.
 
 I’m comfortable working independently or in teams, with experience in:
 
