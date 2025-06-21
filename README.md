@@ -19,7 +19,7 @@ I’m comfortable working independently or in teams, with experience in:
 
 ---
 
-## 🔨 Key Projects
+## 🔨 GLua Projects
 
 ### Inventory System  
 **Repo:** [gmod-inventory-system](https://github.com/WackDog/gmod-inventory-system)
