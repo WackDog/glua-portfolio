@@ -6,9 +6,9 @@
 
 ## 👋 About Me
 
-I got my start with Lua through **Don’t Starve modding**, building custom characters and messing with game mechanics. That hobby quickly turned into a deeper interest in game scripting, which now has eventually led me into **Garry's Mod development** — where I’ve began spending time building clean, modular systems using GLua.
+I got my start with Lua through Don’t Starve modding, building custom characters and playing with game mechanics. That hobby quickly turned into a deeper interest in game scripting, which now has eventually led me into **Garry's Mod development** — where I’ve began spending time building clean, modular systems using GLua.
 
-Outside of GMod, I work as a **software engineer intern**, with over **7 years of experience** across **C, JavaScript, and Java**. I bring professional software practices into my game dev work: structure, reusability, and safe, efficient code.
+Outside of GMod, I work as a software engineer intern, with over 7 years of experience across C, JavaScript, and Java. I bring professional software practices into my game dev work: structure, reusability, and safe, efficient code.
 
 I’m comfortable working independently or in teams, with experience in:
 
@@ -26,8 +26,8 @@ I’m comfortable working independently or in teams, with experience in:
 
 A lightweight and modular inventory system designed for flexibility.
 
-- **Client-server separation** using net messages  
-- **Item table** system for defining and expanding usable items  
+- Client-server separation using net messages  
+- Item table system for defining and expanding usable items  
 - Supports item actions (e.g. healing), pickup/drop logic, and more  
 - Easy to expand or integrate into existing gamemodes  
 
@@ -38,9 +38,9 @@ A lightweight and modular inventory system designed for flexibility.
 
 A keypad entity that can control door access — originally intended for an **SCP-RP** setup.
 
-- Custom **spawnable entity** with full UI  
+- Custom spawnable entity with full UI  
 - Players can enter a code and request access  
-- **Server-side validation** for unlocking logic  
+- Server-side validation for unlocking logic  
 - Configurable and modular for future expansion  
 
 ---
@@ -78,9 +78,9 @@ More projects are on the way as I move code over from Replit and other private s
 
 When it comes to development, I care about:
 
-- Writing **modular, easy-to-read** code  
+- Writing modular, easy-to-read code  
 - Keeping client/server logic separated properly  
-- Designing systems that are **scalable and maintainable**  
+- Designing systems that are scalable and maintainable
 - Clean commit history and structured repos  
 
 I enjoy both building systems from scratch and improving existing ones — whether solo or working alongside other devs.
@@ -90,8 +90,8 @@ I enjoy both building systems from scratch and improving existing ones — wheth
 ## 📜 Qualifications
 
 - 7+ years of programming experience  
-- Currently completing a **BSc (Hons) in Computer Science**  
-- 2 years of real-world software experience at **General Electric**
+- Currently completing a BSc (Hons) in Computer Science
+- 2 years of real-world software experience at General Electric
 
 > 📌 References available — happy to provide contacts if needed.
 
