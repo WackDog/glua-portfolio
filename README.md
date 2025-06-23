@@ -91,7 +91,7 @@ I enjoy both building systems from scratch and improving existing ones — wheth
 
 - 7+ years of programming experience  
 - Currently completing a BSc (Hons) in Computer Science
-- 2 years of real-world software experience at General Electric
+- 2 years of real-world software experience
 
 > 📌 References available — happy to provide contacts if needed.
 
