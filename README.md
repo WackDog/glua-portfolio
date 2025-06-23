@@ -46,7 +46,7 @@ A keypad entity that can control door access — originally intended for an **SC
 ---
 
 ### Crafting System  
-**Repo:** [gmod-crafting-system](https://github.com/WackDog/gmod-crafting-system)
+**Repo:** [gmod-crafting-system](https://github.com/WackDog/gmod-crafting-station)
 
 Simple but expandable crafting system, built to slot into roleplay or survival modes.
 
