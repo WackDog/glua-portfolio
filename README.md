@@ -21,7 +21,7 @@ I’m comfortable working independently or in teams, with experience in:
 
 ## 🔨 GLua Projects
 
-### Multi Character System
+### ⭐ Multi Character System
 **Repo:** [gmod-multi-character](https://github.com/WackDog/gmod-multi-character/)
 
 A full-featured character management system for GMod servers, supporting multiple characters per player.
@@ -34,6 +34,19 @@ A full-featured character management system for GMod servers, supporting multipl
 - Easily extendable or pluggable into custom UI frameworks
 
 ---
+
+### ⭐ Interrogation & Surveillance Utility (ISU)
+**Repo:** [gmod-isu](https://github.com/WackDog/gmod-isu)
+
+A Combine roleplay intelligence system built for HL2RP servers, enabling persistent dossiers, interrogations, and surveillance tools.
+
+- Persistent per-character dossiers with metadata and interrogation logs  
+- Interrogation terminal entity with officer-submitted Q&A tracking  
+- Flagging system with Combine-only access and HUD overlays  
+- Dossier search, SteamID filtering, and export to `.txt`  
+- Fully modular hook system for RP extensions and event logging  
+- Designed for immersive Combine roleplay and expandable to fit any schema
+
 
 ### Inventory System  
 **Repo:** [gmod-inventory-system](https://github.com/WackDog/gmod-inventory-system)
