@@ -1,6 +1,6 @@
 # 💼 GMod Lua Portfolio — WackDog / Jack Williams
 
-### ⚙️ Core Skills: Entities • UI • Networking • Systems Architecture
+### ⚙️ Core Skills: Entities • Networking • Systems Architecture • UI
 
 ---
 
@@ -20,6 +20,20 @@ I’m comfortable working independently or in teams, with experience in:
 ---
 
 ## 🔨 GLua Projects
+
+### Multi Character System
+**Repo:** [gmod-multi-character](https://github.com/WackDog/gmod-multi-character/)
+
+A full-featured character management system for GMod servers, supporting multiple characters per player.
+
+- SQL-based backend for persistent character storage
+- Create, delete, rename, and select characters via UI
+- Faction system with spawn points, inventories, and optional whitelist
+- Integrated admin panel with logs, force switch, revive, and notes
+- Optional permakill system and HL2RP-friendly hooks
+- Easily extendable or pluggable into custom UI frameworks
+
+---
 
 ### Inventory System  
 **Repo:** [gmod-inventory-system](https://github.com/WackDog/gmod-inventory-system)
