@@ -47,6 +47,8 @@ A Combine roleplay intelligence system built for HL2RP servers, enabling persist
 - Fully modular hook system for RP extensions and event logging  
 - Designed for immersive Combine roleplay and expandable to fit any schema
 
+---
+
 ### ⭐ Combine Surveillance Grid (CSG)
 **Repo:** [gmod-csg](https://github.com/WackDog/gmod-csg)
 
@@ -59,6 +61,8 @@ A modular, lore-driven surveillance camera network for HL2RP servers, empowering
 - Full view/ping logs accessible in a dedicated “Logs” tab  
 - Automatic cleanup on camera removal and easy extensibility via hooks  
 - Designed for immersive Combine surveillance operations and expansion into alerts, motion detection, or MySQL backends  
+
+---
 
 ### Inventory System  
 **Repo:** [gmod-inventory-system](https://github.com/WackDog/gmod-inventory-system)
