@@ -1,4 +1,4 @@
-# 💼 GMod Lua Portfolio — WackDog / Jack Williams
+# GMod Lua Portfolio — WackDog / Jack Williams
 
 ### ⚙️ Core Skills: Entities • Networking • Systems Architecture • UI
 
